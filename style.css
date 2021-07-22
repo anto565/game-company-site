@@ -1,0 +1,15 @@
+.bin-a{
+    text-decoration: none;
+    background-color:orange;
+    color: black;
+    padding:10px 20px;
+    font-weight:bold;
+    border:solid orange 3px;
+    border-radius: 50px;
+    transition:all ease 0.3s;
+}
+
+.bin-a:hover{
+    color:black;
+    background-color:rgb(247, 175, 112);
+}
